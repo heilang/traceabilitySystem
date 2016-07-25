@@ -1,0 +1,44 @@
+﻿*{
+margin:0;
+padding:0;
+}
+body{
+background:#868282;
+width:100%;
+margin:0 auto;
+}
+#loginmiddle
+{
+background:url(../images/loginmiddle.png) no-repeat;
+width:300px;
+height:305px;
+margin:130px 550px;
+position:absolute;
+}
+#firstText
+{
+position:absolute;
+margin:88px 46px;
+color:#cccfff;
+}
+#loginbutton
+{
+position:absolute;
+margin:16px 15px;
+}
+#register
+{
+position:absolute;
+margin:16px 145px;
+}
+#user
+{background:url(../images/user.png) 12px 4px no-repeat;
+padding-left:57px;
+height:24px;
+}
+#password{
+background:url(../images/password.png) 12px 4px no-repeat;
+padding-left:57px;
+height:24px;
+}
+

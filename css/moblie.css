@@ -1,0 +1,117 @@
+﻿/*有机米查询系统*/
+*{
+	margin:0px;
+	padding:0px;
+	
+}
+/*width:510px;margin:0 auto;*/
+#all{
+	width:100%;
+	
+	min-height:200px;
+	font-size:14px;
+	font-family:宋体;
+}
+#head{
+	width:100%;
+	height:117px;
+	background:url("../images/head.png") no-repeat center center;
+	margin-top:10px;
+}
+#head a{
+	width:100%;
+	height:117px;
+	display:block;
+	text-indent:-3000px;
+}
+#menu{
+	margin:5px auto;
+	width:100%;
+	height:23px;
+	background:#ff0;
+	line-height:23px;
+	/* border:1px solid #ff0; */
+}
+/*width:60px;*/
+#menu a{
+	color:#00A600;
+	display:block;
+	width:11%;
+	/* border:1px solid #f00; */
+	text-decoration:none;
+	text-align:center;
+	
+}
+#menu a:hover{
+	border-bottom:2px solid #FF5809;
+}
+#menu li{
+	float:left;
+	/* border:1px solid #000; */
+	width:11%;
+	list-style-type:none;
+	
+}
+#info{
+	width:100%;
+	height:138px;
+	background:#8DE5F7;
+	margin-top:24px;
+	overflow:hidden;
+}
+#check{
+	width:100%;
+	height:38px;
+
+}
+/*width:290px;*/
+#text{
+	border:0px;
+	width:56%;
+	height:38px;
+	background:#8DE5F7;
+	font-size:20px;
+	margin-left:4px;
+	margin-top:1px;
+	line-height:38px;
+	line-height:38px;
+}
+/*136px*/
+#check_title{
+	display:block;
+	width:26.5%;
+	height:38px;
+	background:#FFC000;
+	font-weight:700;
+	line-height:38px;
+	text-align:center;
+}
+#check_title,#text{
+	float:left;
+}
+/*70px*/
+#submit{
+	width:13.7%;
+	height:38px;
+	margin-left:5px;
+	background:#00B0F0;
+	border:0px;
+	font-weight:700;
+}
+/*width:503px;*/
+#p{
+	width:98.6%;
+	min-height:10px;
+	margin:34px 3px 0px 3px;
+		
+}
+/*width:273px;*/
+#footer{
+	margin:0 auto;
+	margin-top:30px;
+	width:53.5%;
+	height:37px;
+	
+	background:url("../images/footer.png") no-repeat center center;
+	text-indent:-3000px;
+}
